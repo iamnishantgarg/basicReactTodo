@@ -12,3 +12,6 @@ body {
   color: #333;
   text-decoration: none;
 }
+.container {
+  padding: 0 1rem;
+}
